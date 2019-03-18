@@ -5,3 +5,4 @@ head
 meta
 script
 javacript
+text-align
