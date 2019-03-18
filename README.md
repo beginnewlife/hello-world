@@ -6,3 +6,4 @@ meta
 script
 javacript
 text-align
+line-height
