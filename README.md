@@ -7,3 +7,4 @@ script
 javacript
 text-align
 line-height
+display block
